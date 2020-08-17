@@ -5,7 +5,7 @@
     'depends': ['web'],
     'author': 'Pafnow',
     'category': 'Technical Settings',
-    'description': 'Open form view from editable tree (middle-click).',
+    'description': 'Open form view from editable tree (double-click).',
     'data': [
         'views/assets.xml',
     ],
